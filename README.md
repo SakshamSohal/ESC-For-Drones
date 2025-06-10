@@ -11,7 +11,7 @@ This project simulates a basic DIY Electronic Speed Controller (ESC) circuit usi
 - Suitable for integration with Arduino-based designs
 
  Tools Used
-- LTspice XVII
+- LTspice 
 
 
 
